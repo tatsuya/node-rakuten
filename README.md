@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/tatsuyaoiw/node-rakuten.svg?branch=master)](https://travis-ci.org/tatsuyaoiw/node-rakuten)
 
-An unofficial [node.js][node] client library for [Rakuten Web Service API][rakutenws].
+An unofficial [node.js][node] client library for [Rakuten Web Service API][rakutenws].⁄
 
 ## Installation
 
@@ -30,7 +30,7 @@ item.search(params, function(err, res) {
 });
 ```
 
-See full list of examples placed under `example` directory. To run examples, you'll need to have at least one [Rakuten API App][rakutenwsappnew] and pass your own `applicationId` to `example/config.json` as a property.
+See full list of examples placed under `examples` directory. To run examples, you'll need to have at least one [Rakuten API App][rakutenwsappnew] and pass your own `applicationId` to `examples/config.json` as a property.
 
 ## Usage
 
@@ -72,7 +72,7 @@ In order to access private data such as Favorite Bookmarks, you will need to hav
 This library contains simple OAuth 2.0 client. Obtain auth credentials, client ID and client secrete from [registered application][rakutenwsappid] and pass them to the client with your authorization redirect URI.
 
 ```js
-var rakuten = require('..');
+var rakuten = require('rakuten');
 var OAuth2Client = rakuten.auth.OAuth2;
 var client = OAuth2Client({
   client_id: 'APPLICATION_ID',
