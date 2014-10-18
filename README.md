@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/tatsuyaoiw/node-rakuten.svg?branch=master)](https://travis-ci.org/tatsuyaoiw/node-rakuten)
 
-An unofficial [node.js][node] client library for [Rakuten Web Service API][rakutenws].⁄
+An unofficial [node.js][node] client library for [Rakuten Web Service API][rakutenws].
 
 ## Installation
 
