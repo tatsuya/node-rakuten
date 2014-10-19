@@ -85,7 +85,7 @@ var client = OAuth2Client({
 
 To ask for permissions from a user to retrieve an access token, you redirect them to a consent page. Be sure to include the **scope** that asks permissions for services. To create a consent page URL:
 ```js
-var url = client.generateAuthUrl('rakuten_favoritebookmark_read');
+var url = client.generateAuthURL('rakuten_favoritebookmark_read');
 console.log('Visit the url from browser: ' + url)
 ```
 
