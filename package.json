@@ -4,7 +4,7 @@
   "description": "An unofficial node.js client library for Rakuten Web Service API",
   "main": "index.js",
   "scripts": {
-    "lint": "jshint lib test apis examples",
+    "lint": "jshint index.js lib test apis examples",
     "test": "mocha --reporter spec --timeout 4000"
   },
   "dependencies": {

@@ -13,7 +13,7 @@ function RakutenAPIs() {
   this._options = {};
   this.addAPIs(apis, this);
   this.auth = {
-    OAuth2: require('./lib/oauth2client')
+    OAuth2: OAuth2client
   };
 }
 
