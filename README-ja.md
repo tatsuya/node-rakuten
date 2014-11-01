@@ -4,6 +4,9 @@
 
 楽天ウェブサービスAPI用[Node.js][node]クライアント（非公式）
 
+- [英語][readmeen]
+- [日本語][readmeja]
+
 ## インストール
 
 [npm][npm]からインストール:
@@ -202,5 +205,7 @@ MIT
 [rakutenwsappnew]: https://webservice.rakuten.co.jp/app/create
 [rakutenwsappid]: https://webservice.rakuten.co.jp/app/list
 [rakutenwsauth]: https://webservice.rakuten.co.jp/document/oauth
+[readmeen]: https://github.com/tatsuyaoiw/node-rakuten/blob/master/README.md
+[readmeja]: https://github.com/tatsuyaoiw/node-rakuten/blob/master/README-ja.md
 [mikealrequest]: https://github.com/mikeal/request
 [mikealrequestopts]: https://github.com/mikeal/request#requestoptions-callback
