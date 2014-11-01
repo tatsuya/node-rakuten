@@ -2,11 +2,11 @@
 
 [![Build Status](https://travis-ci.org/tatsuyaoiw/node-rakuten.svg?branch=master)](https://travis-ci.org/tatsuyaoiw/node-rakuten)
 
-An unofficial [node.js][node] client library for [Rakuten Web Service API][rakutenws].
+An unofficial [Node.js][node] client library for [Rakuten Web Service API][rakutenws].
 
 ## Installation
 
-Install from [NPM][npm], the Node.js package manager:
+Install from [npm][npm], the Node.js package manager:
 
 ```
 $ npm install rakuten
@@ -177,7 +177,7 @@ The following APIs and versions are currently supported:
 
 ### Gora
 
-- `gora.course` - GORA Golf Course Search APi (versions: `2013-11-13`)
+- `gora.course` - GORA Golf Course Search API (versions: `2013-11-13`)
 - `gora.coursedetail` - GORA Golf Course Detail API (versions: `2014-04-10`)
 - `gora.plan` - GORA Golf Plan Search API (versions: `2014-04-10`)
 
