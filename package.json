@@ -14,5 +14,17 @@
     "jshint": "~2.5.6",
     "mocha": "~1.21.4"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tatsuyaoiw/node-rakuten.git"
+  },
+  "keywords": [
+    "rakuten"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tatsuyaoiw/node-rakuten/issues"
+  },
+  "homepage": "https://github.com/tatsuyaoiw/node-rakuten",
   "author": "Tatsuya Oiwa <tatsuyaoiw@gmail.com>"
 }
