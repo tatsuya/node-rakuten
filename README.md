@@ -193,7 +193,7 @@ The following APIs and versions are currently supported:
 
 - `affiliate.highcommissionshop` - Affiliate High Commission Shop API (versions: `2013-12-05`)
 
-## Licence
+## License
 
 Distributed under the MIT License.
 
